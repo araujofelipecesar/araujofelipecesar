@@ -1,16 +1,29 @@
 ## Olá , Sejam bem-vindos ao meu Github ! 👋
 
+
+
 **Analista de Infraestrututra**
 
 Me chamo Felipe Cesar Araujo, tenho 42 anos e atuo como analista de infraestrutura de de 2021, estudante de ADS (Analise e desenvolvimento de sistemas). Apaixonado por tecnologia e atualmente estudando para certificações como LPI Linux Essentials, AZ-900.
 
 - 🔭 Atualmente trabalhando na INOVABPO como analista de infraestrutura de TI, onde sou reponsável pelo controle de ativos da empresa, administração da plataforma MS365, contratação de plataformas de VOIP e aquisição de licenças para os softwares utilizados na empresa.
 
-- 🌱 Estudante de Analise e desenvolvimento de sistamas na Universidade Cruzeiro do Sul e me preparando para a realização das certificações LPI Essentials e Microsoft AZ-900.
+- 🌱 Estudante de Analise e desenvolvimento de sistamas e me preparando para a realização das certificações LPI Essentials e Microsoft AZ-900.
 
-- 📫 Você pode entrar em contato comigo atravé do e-mail: araujo.felipecesar@gmail.com.
+- 📫  Entre em contato comigo atravé do e-mail: araujo.felipecesar@gmail.com.
 
 - 😄 Pronomes: Ele / dele
+
+## Minhas tecnologias:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Logo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" alt="Logo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+
 
 
 <!--
