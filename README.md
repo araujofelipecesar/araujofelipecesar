@@ -1,4 +1,4 @@
-<h2 textalign="center">Olá , Sejam bem-vindos ao meu Github ! 👋</h2>
+## Olá , Sejam bem-vindos ao meu Github ! 👋
 
 **Analista de Infraestrututra**
 
