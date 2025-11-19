@@ -1,60 +1,29 @@
-## Hi there 👋
-<!--Cabeçahos-->
-# Cabeçalho de nivel 1
-## Cabeçalho de nivel 2
-### Cabeçalho de nivel 3
-#### Cabeçalho de nivel 4
-##### Cabeçalho de nivel 5
-###### Cabeçalho de nivel 6
+## Olá , Sejam bem-vindos ao meu Github ! 👋
 
-Formatação de texto:
+**Analista de Infraestrututra**
 
-*Italico* ou _italico_
+Me chamo Felipe Cesar Araujo, tenho 42 anos e atuo como analista de infraestrutura de de 2021, estudante de ADS (Analise e desenvolvimento de sistemas). Apaixonado por tecnologia e atualmente estudando para certificações como LPI Linux Essentials, AZ-900.
 
-**negrito** ou __negrito__
+- 🔭 Atualmente trabalhando na INOVABPO como analista de infraestrutura de TI, onde sou reponsável pelo controle de ativos da empresa, administração da plataforma MS365, contratação de plataformas de VOIP e aquisição de licenças para os softwares utilizados na empresa.
 
+- 🌱 Estudante de Analise e desenvolvimento de sistamas na Universidade Cruzeiro do Sul e me preparando para a realização das certificações LPI Essentials e Microsoft AZ-900.
 
-___Negrito e italico___
+- 📫 Você pode entrar em contato comigo atravé do e-mail: araujo.felipecesar@gmail.com.
 
-Lista não Ordenada:
-
-- Lista 1
-- Lista 2
-    - Sublista
+- 😄 Pronomes: Ele / dele
 
 
-Lista Ordenada:
+<!--
+**araujofelipecesar/araujofelipecesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-1. Lista 1
-2. lista 2
-    1. sublista 1
+Here are some ideas to get you started:
 
-trabalhando com imagems
-
-[texto da imagem](endereço da imagem)
-
-![texto da  imagem](endereço local da imagem)
-
-
-
-`system.out.println();`
-
-```
-system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();
-```
-
-> texto da citação
-
-
-
-Trabalhando com Tabelas:
-
-| Cabeçalho 1 | Cabeçalho 2 |
-| ----------- | ----------- |
-| Texto 1     | Texto 2     |
-
-Adicionando CheckBox:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
