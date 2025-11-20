@@ -1,8 +1,6 @@
 ## Olá , Sejam bem-vindos ao meu Github ! 👋
 
-![Felipe Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show_icons=true&theme=radical)
-
-**Analista de Infraestrututra**
+**Sobre mim:**
 
 Me chamo Felipe Cesar Araujo, atuo como analista de infraestrutura de de 2021, estudante de ADS (Analise e desenvolvimento de sistemas). Aqui você vai encontrar tudo sobre meus estudos em tecnologia, DEVOPS, Front-end e Cloud. Apaixonado por tecnologia e atualmente estudando para certificações como LPI Linux Essentials, AZ-900.
 
@@ -13,6 +11,12 @@ Me chamo Felipe Cesar Araujo, atuo como analista de infraestrutura de de 2021, e
 - 📫  Entre em contato comigo atravé do e-mail: araujo.felipecesar@gmail.com.
 
 - 😄 Pronomes: Ele / dele
+
+## Meus stats:
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show_icons=true&theme=dracula)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show_icons=true)
 
 ## Minhas tecnologias:
 
