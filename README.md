@@ -4,7 +4,7 @@
 
 **Analista de Infraestrututra**
 
-Me chamo Felipe Cesar Araujo, tenho 42 anos e atuo como analista de infraestrutura de de 2021, estudante de ADS (Analise e desenvolvimento de sistemas). Apaixonado por tecnologia e atualmente estudando para certificações como LPI Linux Essentials, AZ-900.
+Me chamo Felipe Cesar Araujo, tenho 42 anos e atuo como analista de infraestrutura de de 2021, estudante de ADS (Analise e desenvolvimento de sistemas). Aqui você vai encontrar tudo sobre meus estudos em tecnologia, DEVOPS, Front-end e Cloud. Apaixonado por tecnologia e atualmente estudando para certificações como LPI Linux Essentials, AZ-900.
 
 - 🔭 Atualmente trabalhando na INOVABPO como analista de infraestrutura de TI, onde sou reponsável pelo controle de ativos da empresa, administração da plataforma MS365, contratação de plataformas de VOIP e aquisição de licenças para os softwares utilizados na empresa.
 
