@@ -25,7 +25,14 @@ Me chamo Felipe Cesar Araujo, tenho 42 anos e atuo como analista de infraestrutu
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
 
+## Minhas redes sociais:
 
+<div> 
+  <a href="https://www.linkedin.com/in/araujofelipecesar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:araujo.felipecesar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
+</div>
 <!--
 **araujofelipecesar/araujofelipecesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
