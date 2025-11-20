@@ -14,9 +14,7 @@ Me chamo Felipe Cesar Araujo, atuo como analista de infraestrutura de de 2021, e
 
 ## Meus stats:
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show_icons=true&theme=dracula)
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&show_icons=true)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujofelipecesar&commits_year=2025)
 
 ## Minhas tecnologias:
 
