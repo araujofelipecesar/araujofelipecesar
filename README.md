@@ -9,7 +9,7 @@ Apaixonado por tecnologia, infraestrutura, computação em nuvem e desenvolvimen
 ### 🚀 Sobre Mim
 
 - 📍 **Localização:** São Paulo, Brasil
-- 🏢 **Empresa:** INOVABPO
+- 🏢 **Empresa:** GNX Group
 - 🎓 **Educação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS)
 - ⚙️ **Áreas de Interesse:** Infraestrutura de TI, Sistemas Operacionais Linux, Cloud Computing (AWS / Azure), Automação e Desenvolvimento de Software
 - 💬 **Fale Comigo Sobre:** Linux, Arquitetura de Redes, Cloud, Python, DevOps e novas tecnologias
