@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Analista de Infraestrutura de TI & Estudante de Análise e Desenvolvimento de Sistemas
 
-Apaixonado por tecnologia, infraestrutura, computação em nuvem e desenvolvimento de sistemas. Atualmente atuando como **Analista de Suporte Cloud em empresa Cloudax**, focado em otimização, estabilidade de ambientes e soluções modernas.
+Apaixonado por tecnologia, infraestrutura, computação em nuvem e desenvolvimento de sistemas. Atualmente atuando como **Analista de Suporte Cloud na empresa Cloudax**, focado em otimização, estabilidade de ambientes e soluções modernas.
 
 ---
 
